@@ -39,7 +39,6 @@ This project is a To-Do List application built using Django for the backend and 
 The frontend is built with React and structured as follows:
 
 - `src/components`: Contains React components for the UI.
-- `src/services`: Contains Axios service for making HTTP requests to the backend API.
 - `src/App.js`: Main component that renders the application.
 
 ## Backend Structure
